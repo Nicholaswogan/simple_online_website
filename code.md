@@ -1,7 +1,8 @@
-!---
-layout: default
+---
 title: Code
-!---
+nav: true
+layout: default
+---
 
 Fortran:  
 ```fortran
