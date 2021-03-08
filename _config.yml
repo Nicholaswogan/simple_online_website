@@ -19,11 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nicholas Wogan
-email: your-email@example.com
+# email: your-email@example.com
 # baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "/simple_personal_website"
 # url: "https://nicholaswogan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Nicholaswogan
+# github_username:  Nicholaswogan
 
 # Build settings
 theme: minima
